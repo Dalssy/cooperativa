@@ -1,7 +1,7 @@
-# cooperativa
+# cooperativa #
 Aplicación web para la gestión de cooperativas, incluyendo funcionalidades como registro de miembros, seguimiento de aportaciones y generación de reportes.
 
-## 🔧 Tecnologías utilizadas
+## 🔧 Tecnologías utilizadas ##
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
